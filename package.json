@@ -1,0 +1,15 @@
+{
+  "name": "git-extended",
+  "version": "1.0.0",
+  "description": "Git repo for educational purposes",
+  "main": "index.js",
+  "repository": "git@github.com:AlisaVolodina/git-extended.git",
+  "author": "Alisa Volodina <1032253521@pfur.ru>",
+  "license": "CC-BY-4.0",
+  "config": {
+  	"commitizen": {
+        	"path": "cz-conventional-changelog"
+        }
+    }    
+}
+
